@@ -1,0 +1,17 @@
+Terminando los videos del DOM hacer una pagina web o portafolio web 
+Terminando los videos del Ajax y Api crear una pagina de peliculas
+Terminando los videos de single pages aplications crear una 
+
+Paleta de colores 
+#26292b
+#2e3239
+#5f7adb
+#a2b2ee
+#2b2726
+#403541
+#8e43ed
+#f0ec8b
+#1a1c22
+#3d3a50
+#580ef6
+#f7f7f7
